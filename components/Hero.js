@@ -11,7 +11,7 @@ export default function Hero({profile}) {
   useEffect(async () => {
    
     setProfile(profile);
-  }, []);
+  }, profile);
   return (
     <div className="flex flex-row justify-center items-start overflow-hidden">
       {/* Text container */}

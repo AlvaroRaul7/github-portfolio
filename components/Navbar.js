@@ -225,21 +225,21 @@ export default function Navbar() {
             About
           </a>
         </Link>
-        <Link href="/projects">
+        {/* <Link href="/projects">
           <a className="text-base font-normal text-gray-600 dark:text-gray-300">
             Projects
           </a>
-        </Link>
+        </Link> */}
         <Link href="/experience">
           <a className="text-base font-normal text-gray-600 dark:text-gray-300">
             Experience
           </a>
         </Link>
-        <Link href="/contact">
+        {/* <Link href="/contact">
           <a className="text-base font-normal text-gray-600 dark:text-gray-300">
             Contact
           </a>
-        </Link>
+        </Link> */}
       </div>
     </div>
   );
