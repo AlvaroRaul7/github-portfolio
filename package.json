@@ -1,10 +1,15 @@
 {
+<<<<<<< HEAD
   "name": "nextjs",
+=======
+  "name": "github-portfolio",
+>>>>>>> ea56bcf3ce43c054eb5574349f9c9082722158bb
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+<<<<<<< HEAD
     "start": "next start"
   },
   "dependencies": {
@@ -19,5 +24,18 @@
     "autoprefixer": "^10.3.1",
     "postcss": "^8.3.6",
     "tailwindcss": "^2.2.7"
+=======
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+>>>>>>> ea56bcf3ce43c054eb5574349f9c9082722158bb
   }
 }
