@@ -59,33 +59,27 @@ const userData = {
   },
   experience: [
     {
-      title: "Software Developer",
-      company: "mroads",
-      year: "2021",
-      companyLink: "https://mroads.com",
-      desc: "Contributed to our flagship product - Panna - which is an AI powered candidate interviewing product.",
+      title: "Software Engineer",
+      company: "Just Media Group",
+      year: " September 2021",
+      companyLink: "",
+      desc: "Scaling new infrastructure in AWS.",
     },
     {
-      title: "Founder and Developer",
-      company: "TailwindMasterKit",
+      title: "Digital transformation assistant",
+      company: "EPICO",
       year: "2021",
-      companyLink: "https://tailwindmasterkit.com",
-      desc: "Developed a marketplace for tailwind web components (React, HTML and Angular) and templates.",
+      companyLink: "https://epico.gob.ec",
+      desc: "Developed a chatbot using Google Dialogflow and Angular",
     },
     {
-      title: "Founder and Developer",
-      company: "Algochurn",
-      year: "2021",
-      companyLink: "https://algochurn.com",
-      desc: "Your last moment revision friend right before a Tech coding interview. Practice problems and get hired at top Product based companies.",
-    },
-    {
-      title: "Internship",
-      company: "Intel Corporation",
+      title: "Frontend developer",
+      company: "Blackbox",
       year: "2019",
-      companyLink: "https://intel.com",
-      desc: "Developed pothole detection system with OpenCV and computer vision, detects potholes on roads and informs the driver.",
+      companyLink: "",
+      desc: "Developing front-end applications using Angular",
     },
+   
 
   ],
   resumeUrl:
